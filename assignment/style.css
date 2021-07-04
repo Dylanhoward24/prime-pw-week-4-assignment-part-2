@@ -6,3 +6,15 @@ div {
   padding: 25px;
   margin: 25px;
 }
+
+h2 {
+  background-color: rgba(200, 150, 100, 1.0);
+  color: rgba(100, 750, 50, 1.0);
+  text-align: center;
+}
+
+h3 {
+  background-color: rgba(150, 150, 150, 1.0);
+  color: green;
+  text-align: center;
+}
